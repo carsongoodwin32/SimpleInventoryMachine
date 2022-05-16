@@ -1,0 +1,9 @@
+This small program is used to send emails based on items (laptops) that were checked in. 
+
+These are the references I used. 
+
+https://developers.google.com/gmail/api/quickstart/python
+
+https://developers.google.com/gmail/api/guides/sending#sending_messages
+
+- Jose M. Aguilar
